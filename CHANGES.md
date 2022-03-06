@@ -1,3 +1,7 @@
+### Unreleased
+
+- Added the ability to dynamically remove lines from a display.
+
 ### 0.2.1 (2021-06-29)
 
 - Fix the count segment of `Progress.counter` (when `pp` is passed) to show the
