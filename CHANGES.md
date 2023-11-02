@@ -1,3 +1,10 @@
+### 0.2.3-preview (2023-11-02)
+
+This is an experimental release not meant for public consumption.
+
+- Add ability to dynamically remove lines from display (#26, @mbarbin).
+- Improve Line.eta for slow processes (#27, @mbarbin).
+
 ### 0.2.2 (2023-05-26)
 
 - Fix lower bounds on UTF-8 libraries (@craigfe, 42759d5)
